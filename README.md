@@ -13,7 +13,7 @@ The User Account Management Tool is a bash script for easy user administration o
 
 This script is designed to run on Unix-like operating systems, including:
 
-- Linux distributions (e.g., Ubuntu, CentOS, Debian, Fedora)
+- Linux distributions (e.g., Ubuntu, CentOS, Debian, Fedora, Kali)
 - macOS
 - BSD operating systems (e.g., FreeBSD, OpenBSD, NetBSD)
 
