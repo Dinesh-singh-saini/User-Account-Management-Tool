@@ -9,6 +9,16 @@ The User Account Management Tool is a bash script for easy user administration o
 - Change user password
 - List all users
 
+## Supported Operating Systems
+
+This script is designed to run on Unix-like operating systems, including:
+
+- Linux distributions (e.g., Ubuntu, CentOS, Debian, Fedora)
+- macOS
+- BSD operating systems (e.g., FreeBSD, OpenBSD, NetBSD)
+
+Please ensure that your system has Bash installed and properly configured.
+
 ## Installation
 
 1. Clone this repository:
